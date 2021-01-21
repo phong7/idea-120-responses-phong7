@@ -5,7 +5,7 @@
  the variability of the lens  
   the movability of the camera  
     the editability of films  
- *Procedural Participatory Spatial Encyclopedic*
+ *Procedural Participatory Spatial Encyclopedic*  
  the Abilities of the D I G I T A L _ E N V I R O N M E N T  
 
 [Here is a link to a YouTube video.](https://www.youtube.com/watch?v=fIsv2vVX_kI)

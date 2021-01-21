@@ -8,7 +8,7 @@
  *Procedural...Participatory...Spatial...Encyclopedic*  
  the Abilities of the D I G I T A L _ E N V I R O N M E N T  
 
-[Here is a link to a YouTube video](https://www.youtube.com/watch?v=fIsv2vVX_kI) that encapsulates this poem response. 
+[Here is a link to a YouTube video](https://www.youtube.com/watch?v=fIsv2vVX_kI) that I feel encapsulates this poem. 
 
 Below are 2 images that reminded me of Janet Murray's reading:
 

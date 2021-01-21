@@ -1,4 +1,4 @@
-# Janet Murray *Hamlet on the Holodeck* Poem Response 
+# Janet Murray Poem Response to *Hamlet on the Holodeck*
 
 ## By Pauline Hong
 

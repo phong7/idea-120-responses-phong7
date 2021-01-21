@@ -1,13 +1,14 @@
-Murray Poem (Titled: Limitless) 
+# Murray Poem (Titled: *Limitless*) 
 
-the variability of the lens
+## By Pauline Hong
+
+ the variability of the lens
   the movability of the camera 
     the editability of films 
-Procedural_Participatory_Spatial_Encyclopedic
-the Abilities of the D I G I T A L _ E N V I R O N M E N T 
+ Procedural_Participatory_Spatial_Encyclopedic
+ the Abilities of the D I G I T A L _ E N V I R O N M E N T 
 
-https://www.youtube.com/watch?v=fIsv2vVX_kI
-[YouTube](http://youtube.com)
+[Here is a link to a YouTube video.](https://www.youtube.com/watch?v=fIsv2vVX_kI)
 
 ![Image of Outrun Inspiried Virtual Lanscape]
 https://i.redd.it/8ph86sxomzcz.jpg

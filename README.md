@@ -1,3 +1,3 @@
 # idea-120-responses-phong7
 
-This is a readme file for IDEA 120 Responses. 
+This is Week 2's poem response to Murray's reading. 

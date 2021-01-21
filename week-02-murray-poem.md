@@ -10,7 +10,7 @@
 
 [Here is a link to a YouTube video](https://www.youtube.com/watch?v=fIsv2vVX_kI) that encapsulates this poem response. 
 
-Here are 2 images that reminded me of Janet Murray's reading:
+Below are 2 images that reminded me of Janet Murray's reading:
 
 ![Image of Outrun Inspiried Virtual Lanscape](https://i.redd.it/8ph86sxomzcz.jpg)
 

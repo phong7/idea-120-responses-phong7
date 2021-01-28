@@ -3,7 +3,7 @@ IDEA 120 Digital Practices in Art and Design
 Professor Tiffany Funk  
 Due: 1/28/20 
 
-## *Gesamtkunstwerk* in 2021
+<h1> Gesamtkunstwerk in 2021</h1>
 
 In theory, *Gesamtkunstwerk* can be created using **anything** and **everything**. The essense of *Gesamtkunstwerk* fundamentally lies within the message or purpose of the artist through the means of using multiple art forms. Aptly translating to "the total artwork", Wagner intended this artwork to: 
 > "include all phases of art and in doing so to consume, to destroy each one, so to speak, in favor of the total purpose of them all" (Salter, 2010, p. 2).

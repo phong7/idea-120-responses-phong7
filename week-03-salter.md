@@ -8,7 +8,7 @@ Due: 1/28/20
 In theory, *Gesamtkunstwerk* can be created using **anything** and **everything**. The essense of *Gesamtkunstwerk* fundamentally lies within the message or purpose of the artist through the means of using multiple art forms. Aptly translating to "the total artwork", Wagner intended this artwork to: 
 
 
-<q>include all phases of art and in doing so to consume, to destroy each one, so to speak, in favor of the total purpose of them all </q></p (Salter, 2010, p. 2).
+<q>include all phases of art and in doing so to consume, to destroy each one, so to speak, in favor of the total purpose of them all</q></p> (Salter, 2010, p. 2).
 
 
 In light our society's current technological advancements, there are numerous tools (either digital or physical) that could be used to create a *Gesamtkunstwerk*. 

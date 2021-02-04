@@ -8,7 +8,7 @@ Due: 2/4/21
 The concept of "hot" and "cold" media, especially in relation to social media and the internet, is fascinating to explore. Not only is there a large variance in how people consume the internet, there is also a lot of differentiation in how people will perceive and react to what they consume. In many cases, as pointed out in the lecture, due to the internet's various forms of participation and multiple forms of media, it tends to be "warm". It is in this "warm" area, click-bait Youtube thumbnails will be investigated.
 
 As Barthes analyzes, there are three messages an image semiotically displays:
-> a "linguistic message, a coded iconic message, and a non-coded iconic message" (Barthes, 1999, p. 36).
+> "linguistic message, a coded iconic message, and a non-coded iconic message" (Barthes, 1999, p. 36).
 
 A linguistic message is textual, an coded iconic message or symbolic message, is what is being signified through the image, and a non-coded iconic message or literal message, is the signifiers that indicates what is being signified. He further explains that signified and the symbolic image is what is being *connoted* while the literal signifiers of the image is being *denoted*.
 

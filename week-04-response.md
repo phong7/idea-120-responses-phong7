@@ -12,7 +12,7 @@ As Barthes analyzes, there are three messages an image semiotically displays:
 
 A linguistic message is textual, an coded iconic message or symbolic message, is what is being signified through the image, and a non-coded iconic message or literal message, is the signifiers that indicates what is being signified. He further explains that signified and the symbolic image is what is being *connoted* while the literal signifiers of the image is being *denoted*.
 
-To see the example of a click-bait Youtube thumbnail, press this link.
+To see an example of a click-bait Youtube thumbnail, [press this link](https://i.redd.it/2dxhy2g7ynu51.png). 
 
 In the example of the click-bait Youtube thumbnail, the linguistic messages are the title of the video "Joe Biden is straight lying", and the enlarged caption "you won't believe what Joe Biden did". The denoted message of this image is Joe Biden with his fingers in front of his mouth, and the three emojis: &#129327;, &#128064;, and &#128561;.
 

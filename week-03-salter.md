@@ -1,7 +1,7 @@
 Pauline K. Hong    
 IDEA 120 Digital Practices in Art and Design  
 Professor Tiffany Funk  
-Due: 1/28/20 
+Due: 1/28/21
 
 ## *Gesamtkunstwerk* in 2021
 

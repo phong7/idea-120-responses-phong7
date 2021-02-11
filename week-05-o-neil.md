@@ -8,7 +8,7 @@ Due: 2/11/21
 
 O'Neil's *Weapons of Math Destruction* or WBD, provides very analytical and comprehensive insight into the repercussions and limitations to the Big Data Economy. Essentially, through mathematics and statistics, computer programs and software systems are able to sift through data and generate results according to its algorithm. However, this inevitably has various externalities, many of which have long-lasting impacts. O'Neil investigates this machine-programed model,  further exploring its social, economic, and political ramifications. O'Neil asserts:
 
-> "the 3 elements of WBDs: Opacity, Scale, and Damage"
+> "the 3 elements of WBDs: <b> Opacity, Scale, and Damage </b>"
 
 These models are *opaque*, in the sense that their intentions and standards are not clear, and in some cases unknown, to whoever experiences to it. This lack of transparency is further inflated through the *scale* of which they are implemented. And ultimately, through its aftermaths inflicted in the lives of individuals communities, and the nation at large, *damage* is committed.
 

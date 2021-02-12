@@ -10,7 +10,7 @@ O'Neil's *Weapons of Math Destruction* or WBD, provides very analytical and comp
 
 > "the 3 elements of WBDs: <b> Opacity, Scale, and Damage </b>"
 
-These models are *opaque*, in the sense that their intentions and standards are not clear, and in some cases unknown, to whoever experiences to it. This lack of transparency is further inflated through the *scale* of which they are implemented. And ultimately, through its aftermaths inflicted in the lives of individuals communities, and the nation at large, *damage* is committed.
+These models are *opaque*, in the sense that their intentions and standards are not clear. In some cases it's intentions are also unknown to whoever experiences to it. This lack of transparency is further inflated through the *scale* of which they are implemented. And ultimately, through its aftermaths inflicted in the lives of individuals communities, and the nation at large, *damage* is committed.
 
 
 While "weapons of math destruction" is a clever play-on-words of, it carries a deep heaviness as "weapons of mass destruction" does. Personally, Sarah Wysocki's story hit close to home. As a native-Chicagoan who attended Chicago Public Schools (CPS), I remember the countless standardized tests that students had to succumb to. During an end of the year exam, my 4th grade teacher told the class how some school teachers give answers to their students because they want higher test results. She shared this as part of the honor code. This is what Wysocki believes happened with her students. And she had a lot of evidence to back it up too. Standardized tests are a double-edged sword; not only was it evaluating students, and teachers as well.

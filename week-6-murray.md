@@ -8,7 +8,7 @@ Due: 2/18/21
 
 After reading Murray's predictions and updated 2016 conclusions about internet television and inhabiting virtual environments, I believe she was more or less successful in her speculations. The bulk of this chapter explored Murray's four main predictions of the hypothetical future of *cyberdrama*, which can be defined as:
 
-> "the coming digital story form... [that] will encompass many different formats and styles but will essentially be a single distinctive entity," (Murray, 1997, p. 247)."
+> "the coming digital story form... [that] will encompass many different formats and styles but will essentially be a single distinctive entity," (Murray, 1997, p. 247).
 
 Her predictions include: **hyperserial sites** (where TV meets the internet), **mobile viewer movies**, **virtual places and fictional neighborhoods**, and **role-playing in an authored world**. In my opinion, each of these predictions are incredibly well-thought out, socially and intellectually insightful, and creative. I especially found her predictions on virtual places and fictional neighborhoods quite precise as there are many movies and games that inhabit virtual reality formats. While not all of her predictions were 100% accurate, many of them hold varying degrees of correctness. This is well outlined in her 2016 update section, where she also devises new predictions based on the current technological states of the TV, movie, and gaming realms. Overall, Murray's predictions were very insightful and though not all of it has occurred *yet*, there is always a possibility they may in the future.
 

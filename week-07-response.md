@@ -1,0 +1,16 @@
+Pauline K. Hong  
+IDEA 120 Digital Practices in Art and Design  
+Professor Tiffany Funk  
+Due: 2/25/21  
+
+## James Bridle & the **Dark Side** of the Internet 
+
+Bridle explores a very serious and somewhat unknown topic in his article. The reason I say "unknown" is not because people are not aware of the issues he raises. But the questions of intent, origin, and repercussions (the why's, how's, and where's) are still not clear, as the issues surrounding the web are more recent and contemporary. The main examples Bridle draws from is YouTube, and specifically channels targeted for children. Bridle finds much of YouTube's children's content to be abusive, violent, inappropriate, and exploitative. And to a high extent, I agree with him. As a member of the Gen-Z generation, I resonate a lot with many of the problems with YouTube, and other internet platforms. Especially in the early 2000's, almost any all content was allowed on YouTube. Now, it's part of Google and a *huge* profit-maker for millions of people. And even with its constantly-updating "Terms of Service" and policies, the algorithm still seems to skim over some overly violent, overly sexual, and other overly inappropriate content. If it's hitting good numbers, that's all that matters; more numbers, more watched advertisements, more money. 
+
+But Bridle goes even farther to investigate how children are true victims to these complicit and abusive systems. Children are very vulnerable and cannot give consent. They are at risk of being lured in by  bright colors, fun music, toys, cartoons, etc. from thumbnail images. In both the consuming and producing side of content, they are vulnerable. There are many examples he gives for this stance. In Bridle's own vision, responsibility for inappropriate, egregious, traumatizing, abusive, etc. content on the internet is accounted for. But due to the highly automated, systemic, and algorithmic nature of this structure, the boundaries of responsibility between man and machine are very difficult and nearly impossible to separate. In his own words,
+
+>"the impossibility of determining the degree of automation which is at work here; how to parse out the gap between human and machine",(Bridle, 2017, para. 21). 
+
+I don't feel like Bridle offered solutions in this article as much as he shed in-depth awareness on the negative impacts of the internet. He uses heavy diction like "deeply dark", "abusive", "systemic", "inappropriate", "exploitation", etc., to really encapsulate the gravity of the problems. And I agree that this is something to be cautious of and take actions to eliminate. But I can't help but wonder if the internet is a growing phenomenon that must more embraced and fluid than restricted. I'm not sawing it should be a chaotic, lawless playground for dangerous people. No, this is hazardous, as Bridle points out. But maybe these grievances are leading the human population towards an even more digitalized, virtualized, and computerized era. It is difficult to say anything, as the internet and its array of content is such an integral part of modern life. But I ultimately think Bridle raises some noteworthy concerns and correctly assesses the lack of distinction between human and machine. However, I wonder if this is necessary a *bad* thing. 
+
+ 

@@ -3,7 +3,7 @@ IDEA 120 Digital Practices in Art and Design
 Professor Tiffany Funk  
 Due: 3/4/21  
 
-## Chalabi & O'Neil: Target Ads, Bad Stats, & The Internet  
+## Chalabi & O'Neil: **Targeted Ads, Bad Stats, & The Internet**  
 
 Chalabi and O'Neil analyze very important devises people are subject to when using tools and consuming media on the internet. Chalabi didn't explicitly speak about tools or media. However, she did highlight the growing distrust and inability to understand statistics, as well the simplicity to skew data in design and presentation. O'Neil, on the other hand, took a deep dive into the world of WBD and targeted advertisement. Primarily using the example of targeted ads for for-profit universities/colleges, O'Neil investigated how the most vulnerable and marginalized are targeted with false promises of upward social mobility. In turn, companies profit millions and the poor become poorer. Especially with the design of targeted ads, I believe I and every person whose ever connected to web, has been subjected to these models. Particularly when I was taking time off after high school, ads for DeVry University, University of Phoenix, Grand Canyon University, etc. etc. were *everywhere*. Even now, due to my love of techwear fashion, the entirety of my Facebook feed is bombarded by ads from clothing brands. Although the extent of nefariousness differs between targeted ads for fashion versus targeted ads for private loans, it is nearly impossible to escape the systems and algorithms of the internet.
 

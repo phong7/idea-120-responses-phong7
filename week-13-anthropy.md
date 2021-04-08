@@ -5,8 +5,8 @@ Due: 4/8/21
 
 ## Anna Anthropy (Cont.): Chapter 3 & 4 Response
 
-**1.) How exactly do folk games reflect cultures? Even if a game is authored, doesn't it still reflect the hegemonic cultures of the author? In this case, doesn't that still imply authored games can eventually become or are folk games?**
-2.) Is there any follow up on Wrigstad's *Gang Rape* game? Has it to any extent, been effective in educating players about rape, assault, and other horrendous real-life experiences?
+**1.) How exactly do folk games reflect cultures? Even if a game is authored, doesn't it still reflect the hegemonic cultures of the author? In this case, doesn't that still imply authored games can eventually become or are folk games?**    
+2.) Is there any follow up on Wrigstad's *Gang Rape* game? Has it to any extent, been effective in educating players about rape, assault, and other horrendous real-life experiences?    
 3.) Does the repurposing of commercial game assets contribute to video games having the same or similar format, storyline, plots, or nonlinear structure? Does this "standardize" and/or assimilate games to (for lack of better words) be the same types of games?
 
 In Chapter 3's "The Rise of the Designer" section, Anthropy analyzes the differences between folk games and authored games. She differentiates the two by saying:
